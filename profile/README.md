@@ -15,3 +15,13 @@ We link communities together by sharing chemical data across companies, academic
 ### Step 3: Establish A Standard Artifical Chemical Intelligence
 
 We create interfaces where machine learning models and the users can interact with, and contribute back, data. This establishes a practice for a standard artificial intelligence program to be governed by all.
+
+### Student Roster
+
+| Name | Email | Title | Degree | Project Topics |
+|-|-|-|-|-|
+| Damilola Bodun | --- | Graduate Student | XXXX  | Chemical Composition of Foods / Artificial Intelligence for Gin Production | 
+| Zainab Ashimiyu-Abdusalam |  -- |  Student | XXXX  |  Chemical Composition of Ayurveda | 
+| Katukoliya Gamage Anuththara Samadhi |  --- |  Student | XXXX  |  Designing Anti-Venom Snakes | 
+| Jonas Romper  |  --- | Student | XXXX  | Chemical Composition of Cannabis and Artificial Intelligence for Chemical Extraction from Seeds  | 
+| Suliman Sharif | sharifsuliman1@gmail.com | Mentor | MSc. Organic Chemistry/ Ph.D. Candidate Pharmaceutical Sciences | |
