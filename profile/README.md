@@ -21,6 +21,6 @@ We create interfaces where machine learning models and the users can interact wi
 | Name | Email | Title | Degree | Project Topics |
 |-|-|-|-|-|
 | Damilola Bodun | --- | Graduate Student | XXXX  | Chemical Composition of Foods / Artificial Intelligence for Gin Production / Global Chem Taxanomy | 
-| Katukoliya Gamage Anuththara Samadhi |  --- |  Student | XXXX  |  Designing Anti-Venom Snake with Molecular Dynamics / Development Operations for Academic Research Scale | 
+| Katukoliya Gamage Anuththara Samadhi |  --- |  Student | XXXX  |  Pharmacophore modeling / Development Operations for Academic Research Scale | 
 | Pei Wu  |  --- | Student | XXXX  | Large Language Models for Psychedellic Chemistry  | 
 | Suliman Sharif | sharifsuliman1@gmail.com | Mentor | MSc. Organic Chemistry/ Ph.D. Candidate Pharmaceutical Sciences | |
